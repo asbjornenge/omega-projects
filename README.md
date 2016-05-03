@@ -2,7 +2,7 @@
 
 List of projects I have laying around corners of my brain.
 
-* [WebDeck](#1)
+* [WebDeck](../../issues/1)
 * ZeroTier network containers node module
 * Yolog
 * WebRTC web intents
