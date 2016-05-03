@@ -1,6 +1,11 @@
-# omega-projects
+# Omega Projects
 
-My Omega Project List
+List of projects I have laying around corners of my brain.
+
+* [WebDeck](/asbjornenge/omega-projects/issues/1)
+* ZeroTier network containers node module
+* Yolog
+* WebRTC web intents
 
 # License
 
