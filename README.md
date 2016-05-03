@@ -4,5 +4,5 @@ My Omega Project List
 
 # License
 
-[CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
-[Summary](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
+[Humar Readable](https://creativecommons.org/licenses/by-sa/4.0/)
