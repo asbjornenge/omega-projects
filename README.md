@@ -3,7 +3,7 @@
 List of projects I have laying around corners of my brain.
 
 * [WebDeck](../../issues/1)
-* [WebRTC web intents](../../issues/2)
+* [WebRTC intents](../../issues/2)
 
 # License
 
